@@ -10,28 +10,37 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/hk39435"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:hk39435"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://github.com/Himanshu39435"><img src="https://skillicons.dev/icons?i=github" /></a>
- 
-  
-<a href="https://instagram.com/_its_me_a_rya_" target="_blank">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Himanshu39435" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_ID" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/Himanshu39435" target="_blank">
+<a href="https://twitter.com/YOUR_ID" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/Arya Arya" target="_blank">
+<a href="https://facebook.com/YOUR_ID" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/919525206883" target="_blank">
+<a href="https://wa.me/91XXXXXXXXXX" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
+
 
 ---
 
