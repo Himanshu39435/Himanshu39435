@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | DSA</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Loves+Python+%F0%9F%90%8D;Machine+Learning+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%9A%80" />
+</p>
+
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
