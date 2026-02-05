@@ -44,6 +44,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu39435&layout=compact&theme=tokyonight"/>
 </p>
 
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+</p>
+
 ## 🐍 Watch my contributions turn into a snake!
 
 <p align="center">
