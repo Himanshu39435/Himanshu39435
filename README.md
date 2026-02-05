@@ -1,57 +1,81 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN | JavaScript | DSA</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Loves+Python+%F0%9F%90%8D;Machine+Learning+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%9A%80" />
-</p>
-
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
----
-
-### 👨‍💻 About Me
-- 🎓 MCA Student  
-- 💻 Currently learning MERN Stack  
-- 🔥 Goal: Software Developer and MERN Stack Developer
-- ⚡ Love coding & building projects  
-
----
-
-### 🌐 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/hk39435"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:hk39435@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Lover;DSA+Enthusiast;Open+Source+Learner;Future+Software+Engineer" />
 </p>
 
 ---
 
-### 🚀 Skills
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,cpp,python" />
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/YOUR-USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 Tech Stack
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Himanshu39435&show_icons=true&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode,bootstrap,tailwind" />
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu39435&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=matrix&no-frame=true&margin-w=15"/>
 </p>
 
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu39435&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-## 🔥 Contribution Graph
+---
+
+# 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu39435&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
-## 🐍 Watch my contributions turn into a snake!
+---
+
+# 🐍 Watch my contributions turn into a snake!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=00ffff&style=flat"/>
+</p>
+
+---
+
+# 💀 Developer Quote
+
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i> 🚀
 </p>
