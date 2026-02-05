@@ -10,9 +10,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://github.com/YOUR-USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linkedin.com/in/hk39435"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:hk39435"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/Himanshu39435"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=matrix&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Himanshu39435&theme=matrix&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -36,8 +36,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Himanshu39435&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu39435&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 # 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu39435&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@
 # 🐍 Watch my contributions turn into a snake!
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Himanshu39435/Himanshu39435/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=00ffff&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Himanshu39435&label=Profile%20views&color=00ffff&style=flat"/>
 </p>
 
 ---
