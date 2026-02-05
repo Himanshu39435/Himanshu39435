@@ -43,3 +43,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu39435&layout=compact&theme=tokyonight"/>
 </p>
+
+## 🐍 Watch my contributions turn into a snake!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
