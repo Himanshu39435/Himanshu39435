@@ -15,19 +15,19 @@
 <a href="https://github.com/Himanshu39435"><img src="https://skillicons.dev/icons?i=github" /></a>
  
   
-<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<a href="https://instagram.com/_its_me_a_rya_" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+<a href="https://twitter.com/Himanshu39435" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+<a href="https://facebook.com/Arya Arya" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/91XXXXXXXXXX" target="_blank">
+<a href="https://wa.me/919525206883" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
