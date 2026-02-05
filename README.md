@@ -47,7 +47,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu39435&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ## 🐍 Watch my contributions turn into a snake!
